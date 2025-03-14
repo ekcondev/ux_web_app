@@ -13,7 +13,7 @@ Asegúrate de tener instalados los siguientes requisitos antes de ejecutar la ap
 ## Instalación
 Clona el repositorio:
 
-```git clone https://github.com/usuario/nombre-repositorio.git```
+```git clone https://github.com/ekcondev/ux_web_app.git```
 
 ```cd ux_web_app```
 
