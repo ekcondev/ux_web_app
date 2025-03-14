@@ -5,10 +5,10 @@ Proyecto desarrollado por Edna Katherine Conde Vega y Santiago Patiño Hernánde
 ## Requisitos
 
 Asegúrate de tener instalados los siguientes requisitos antes de ejecutar la aplicación:
-Flutter (Versión recomendada: >=3.18.0-18.0.pre.54)
-Dart (Versión recomendada: >=3.7.0 <4.0.0)
-Un navegador web compatible (Chrome recomendado)
-Visual Studio Code
+- Flutter (Versión recomendada: >=3.18.0-18.0.pre.54)
+- Dart (Versión recomendada: >=3.7.0 <4.0.0)
+- Un navegador web compatible (Chrome recomendado)
+- Visual Studio Code
 
 ## Instalación
 Clona el repositorio:
